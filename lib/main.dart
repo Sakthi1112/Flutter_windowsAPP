@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
             ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 12, 65, 187)),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Window App'),
+      home: const MyHomePage(title: 'Flutter Window_App'),
     );
   }
 }
